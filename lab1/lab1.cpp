@@ -22,7 +22,7 @@ int main()
     double x_n_1, x_n = x_n_1 = 0;
     double v_n_1, v_n = v_n_1 = 1;
     double m = 1.67;
-    int n = 1000;
+    int n = 10001;
     double h = 10. / n;
     for (int i = 0; i < n; i++)
     {
